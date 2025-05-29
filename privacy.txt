@@ -1,0 +1,13 @@
+Privacy Policy for CNFans Ref Injector Extension
+
+This browser extension does not collect, store, or transmit any personal data.
+
+All operations are performed locally within the user's browser. The extension:
+- Removes popup warnings and overlays on supported shopping agent websites.
+- Adds or updates referral parameters in CNFans product links.
+
+No user activity, browsing history, or personal information is collected or transmitted.
+
+If you have any concerns or questions about this policy, please reach out to the developer.
+
+Effective date: 2025-05-28
