@@ -1,4 +1,4 @@
-# Risker by Race 🛡️
+# Risker by OwO 🛡️
 
 Removes risk overlays/popups and cleans affiliate links on Chinese shopping sites. Works locally in your browser with no tracking.
 
